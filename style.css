@@ -130,7 +130,7 @@ hr {
 
 .recipe {
     margin: auto;
-    margin-top: 10vh;
+    margin-top: 15vh;
     margin-bottom: 10vh;
     width: 720px;
     background-color: var(--clr-secondary-100);
